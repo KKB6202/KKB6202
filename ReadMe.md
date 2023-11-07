@@ -16,6 +16,9 @@
     - Visual Studio Code
 
     - Replit
+
+    - ChatGPT
+    
     
   </details>
 
