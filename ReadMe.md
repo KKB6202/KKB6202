@@ -17,7 +17,6 @@
 
     - Replit
 
-    - ChatGPT
     
     
   </details>
