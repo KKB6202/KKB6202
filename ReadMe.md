@@ -15,21 +15,9 @@
     
     - Visual Studio Code
 
-    - Replit
 
     
     
   </details>
 
-  <details>
-    <summary>Launguages</summary>
-    
-    - C++
-
-    - Python
-
-    - HTML,CSS
-
-    - Javascript
-  
-  </details>
+ 
